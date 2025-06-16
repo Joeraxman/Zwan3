@@ -1,0 +1,7 @@
+flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+azure-data-tables==12.4.0
+tenacity==8.2.3
+waitress==2.1.2
+azure-core==1.26.0
