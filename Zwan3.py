@@ -27,7 +27,7 @@ connection_string = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
 
 # Constants
 instrument_name = 'BTC_USDC'
-spread = 270
+spread = 275
 amount = 0.0075
 max_trade_age_ms = 5 * 60 * 1000
 table_name = "ProcessedOrders"
